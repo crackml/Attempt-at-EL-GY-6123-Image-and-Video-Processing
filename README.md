@@ -17,3 +17,11 @@ Task 1: 2D Convolution
 Task 2: Noise Adding and Removal
 
 Click [here](https://github.com/crackml/Attempt-at-EL-GY-6123-Image-and-Video-Processing/blob/master/ELGY6123_CA2.ipynb)
+
+## Computer Assignment 3
+
+Task 1: ISTA Algorithm and DCT
+
+Task 2: Wavelet and ISTA
+
+Click [here](https://github.com/crackml/Attempt-at-EL-GY-6123-Image-and-Video-Processing/blob/master/ELGY6123_CA3.ipynb)
