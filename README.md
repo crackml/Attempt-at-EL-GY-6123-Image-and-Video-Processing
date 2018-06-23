@@ -38,7 +38,7 @@ Task 4: Stitching Two Images
 
 Click [here](https://github.com/crackml/Attempt-at-EL-GY-6123-Image-and-Video-Processing/blob/master/ELGY6123_CA4.ipynb)
 
-## Computer Assignment 4
+## Computer Assignment 5
 
 Task 1: Image Color Quantization Using K-means Algorithm
 
