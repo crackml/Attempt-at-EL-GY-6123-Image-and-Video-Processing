@@ -37,3 +37,11 @@ Task 3: Find Corresponding Points Based on SIFT Descriptor
 Task 4: Stitching Two Images
 
 Click [here](https://github.com/crackml/Attempt-at-EL-GY-6123-Image-and-Video-Processing/blob/master/ELGY6123_CA4.ipynb)
+
+## Computer Assignment 4
+
+Task 1: Image Color Quantization Using K-means Algorithm
+
+Task 2: Image Segmentation Considering Both Color Homogeneity And Region Connectivity
+
+Click [here](https://github.com/crackml/Attempt-at-EL-GY-6123-Image-and-Video-Processing/blob/master/ELGY6123_CA5.ipynb)
